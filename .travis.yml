@@ -2,8 +2,8 @@ language: python
 python:
   - "3.7"
 
-before_script:
-  - cd tests
-
-script:
-  - pytest
+#before_script:
+#  - cd tests
+#
+#script:
+#  - pytest
