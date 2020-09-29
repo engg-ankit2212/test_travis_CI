@@ -1,1 +1,5 @@
-# test_travis_CI
+Calculator Repo 
+
+Dependencies:
+numpy
+pandas
