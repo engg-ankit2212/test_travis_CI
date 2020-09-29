@@ -3,7 +3,7 @@ python:
   - "3.7"
 
 install:
-  - pip install pytest-travis-fold
+  - pip3 install pytest-travis-fold
 
 
 before_script:
