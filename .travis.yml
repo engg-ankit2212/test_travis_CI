@@ -13,3 +13,6 @@ before_script:
 
 #script:
 #  - pytest
+
+script:
+  - python test_Calc.py
