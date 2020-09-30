@@ -1,4 +1,4 @@
-from Calculator import Calculator
+from config.Calculator import Calculator
 
 class TestCalci():
 
