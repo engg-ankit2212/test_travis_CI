@@ -6,6 +6,7 @@ python:
 install:
   - pip install pytest==4.6.3
   - pip install packaging
+  - pip install setuptools
   - pip install -e .
   - pip install -r requirements.txt
   - pip install pytest-travis-fold
