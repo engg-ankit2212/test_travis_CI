@@ -11,5 +11,5 @@ install:
 before_script:
   - cd tests
 
-script:
-  - pytest
+#script:
+#  - pytest
