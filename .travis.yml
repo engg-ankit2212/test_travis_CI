@@ -15,8 +15,8 @@ install:
 before_script:
   - cd tests
 
-#script:
-#  - pytest
-
 script:
-  - python test_Calc.py
+  - pytest
+
+#script:
+#  - python test_Calc.py
