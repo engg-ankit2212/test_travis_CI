@@ -19,6 +19,12 @@ class Calculator:
     def divide(self):
         return self.num1 / self.num2
 
+    def modulus(self):
+        return self.num1 % self.num2
+
+    def exponent(self):
+        return self.num1 ^ self.num2
+
 
 if __name__ == '__main__':
     instance = Calculator(1, 2)
