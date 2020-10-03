@@ -8,7 +8,16 @@ class Calculator:
         return self.num1 + self.num2
 
     def minus(self):
-        return self.num1 - self.num2
+        if self.num1 > self.num2:
+            return self.num1 - self.num2
+        else:
+            return self.num2 - self.num1
+
+    def multiply(self):
+        return self.num1 * self.num2
+
+    def divide(self):
+        return self.num1 / self.num2
 
 
 if __name__ == '__main__':
