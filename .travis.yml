@@ -1,7 +1,7 @@
 dist: focal
 arch: amd64
 #inst: standard-16
-instance: standard-2
+#instance: standard-2
 os: linux
 
 language: python
