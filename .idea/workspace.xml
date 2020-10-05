@@ -51,7 +51,7 @@
       <recent name="C:\Users\Clestial\Documents\Projects\Travis_Project\test_travis_CI\config" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.pytest for test_all_working.TestAllConfigWork.test_all_config_working">
     <configuration name="pytest for test_Calc.TestCalci" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="test_travis_CI" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -68,8 +68,25 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="pytest for test_all_working.TestAllConfigWork.test_all_config_working" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="test_travis_CI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_all_working.TestAllConfigWork.test_all_config_working&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_all_working.TestAllConfigWork.test_all_config_working" />
         <item itemvalue="Python tests.pytest for test_Calc.TestCalci" />
       </list>
     </recent_temporary>
@@ -100,22 +117,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1601529242277">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1601883015495">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601529242277" />
-    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1601529242276">
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1601883015495" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1601883015494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601529242276" />
-    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1601529242276">
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1601883015494" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1601883015494">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601529242276" />
-    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1601529242277">
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1601883015494" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1601883015495">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601529242277" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1601883015495" />
     <state x="142" y="0" key="SettingsEditor" timestamp="1601445414921">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
