@@ -1,4 +1,8 @@
-dist: xenial
+#dist: xenial
+arch: amd64
+instance: standard-16
+os: windows
+
 language: python
 python:
   - "3.7"
