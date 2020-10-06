@@ -1,7 +1,7 @@
-#dist: xenial
-#arch: amd64
-os: osx
-osx_image: xcode12
+dist: xenial
+arch: amd64
+os: linux
+# osx_image: xcode12
 
 language: python
 python:
