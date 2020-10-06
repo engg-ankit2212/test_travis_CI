@@ -1,4 +1,4 @@
-arch: amd64
+#arch: amd64
 os: osx
 
 language: python
