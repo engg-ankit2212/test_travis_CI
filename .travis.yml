@@ -1,4 +1,4 @@
-dist: focal
+dist: xenial
 arch: amd64
 #inst: standard-16
 #instance: standard-2
@@ -18,11 +18,6 @@ install:
 
 
 before_script:
-#  - choco install python3
-#  - export PATH="/c/Python37:/c/Python37/Scripts:$PATH"
-#  - virtualenv $HOME/venv
-#  - source $HOME/venv/Scripts/activate
-#  - python -m pip install -r requirements-test.txt
   - cd tests
 
 script:
