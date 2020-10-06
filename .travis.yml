@@ -1,8 +1,6 @@
 dist: xenial
 arch: amd64
-#inst: standard-16
-#instance: standard-2
-os: linux
+os: osx
 
 language: python
 python:
