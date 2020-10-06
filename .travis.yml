@@ -1,8 +1,6 @@
-dist: xenial
-arch: amd64
-instance_size: standard-16
-#instance: standard-2
-os: linux
+#dist: xenial
+#arch: amd64
+os: osx
 
 language: python
 python:
