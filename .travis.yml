@@ -1,6 +1,10 @@
 #dist: xenial
 os: osx
-language: generic
+osx_image: xcode7.3 # macOS 10.11
+name: '10.11'
+arch: x86_64
+cache: *osx_cache
+language: python
 python:
   - "3.7"
 
